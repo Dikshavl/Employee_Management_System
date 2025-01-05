@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Employee Table</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Employee Table</h1>
+        <table>
+            <thead>
+                <tr>
+                    <th>ID</th>
+                    <th>Name</th>
+                    <th>Email</th>
+                    <th>Phone</th>
+                    <th>Job</th>
+                    <th>Action</th>
+                </tr>
+            </thead>
+            <tbody id="employees"></tbody>
+        </table>
+        <a href="index.html" class="add-btn">Go Back</a>
+    </div>
+    <script src="script.js"></script>
+    <script>
+        showEmployees(); // Show employees on table page
+    </script>
+</body>
+</html>
