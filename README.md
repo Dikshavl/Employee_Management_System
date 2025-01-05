@@ -1,5 +1,5 @@
 # Employee_Management_System
-# Employee Management System
+
 
 This is a simple employee management system made using HTML, CSS, and JavaScript. It uses local storage to store the data. It has the following features:
 
@@ -18,7 +18,7 @@ Edit Employee
 
 3. Add, edit, and delete employees
 
-## ScreenShot  
+  
 
 ## Languages used
 HTML,CSS,JavaScript.
